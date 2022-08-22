@@ -1,4 +1,4 @@
-### Olá!👋 Eu sou a Vanessa Oliveira! 
+### Olá!Eu sou a Vanessa Oliveira!👋   
 
 <div>
 <a href="https://github.com/VaneChan/">
@@ -6,12 +6,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanechan&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronomes:ela/dela
-- ⚡ Fun fact: ...
--->
+</div>
+<img align="center" alt="Vane-Chan-html" height="30" widt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img align="center" alt="Vane-Chan-css" height="30" widt="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img align="center" alt="Vane-Chan-js" height="30" widt="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img align="center" alt="Vane-Chan-react" height="30" widt="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img align="center" alt="Vane-Chan-java" height="30" widt="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+</div>
